@@ -1,0 +1,36 @@
+html{
+    font-size: 14px;
+    background-color: skyblue;
+    width: 100%;
+}
+img{
+    width: 300px;
+}
+
+h1{
+    font-size: 22px;  /* Augmentation de la taille de h1 */
+}
+
+h2{
+    font-size: 18px; /* Augmentation de la taille de h2 */
+}
+
+#page{
+    width: 70%;
+    margin: auto;
+    background: white;
+    border: solid 1px black;
+}
+
+.entete{
+    text-align: center;
+}
+
+#aboutme{
+    font-size: 18px; /*Augmentation taille des textes*/
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; /*Modification de la police*/
+}
+
+footer{
+    text-align: center;
+}
